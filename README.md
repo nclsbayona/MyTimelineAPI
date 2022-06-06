@@ -1,3 +1,3 @@
 # MyTimelineAPI
 This is my TimelineAPI
-[URL](nclsbayona.github.io/MyTimelineAPI)
+[URL](https://nclsbayona.github.io/MyTimelineAPI/)
