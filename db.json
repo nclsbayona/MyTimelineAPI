@@ -1,0 +1,17 @@
+[
+  { 
+    "title": "Started school",
+    "date": "February 2006",
+    "description": "I started school at Liceo de Cervantes Norte school in Bogota"
+  },
+  {
+    "title": "Finished primary school",
+    "date": "December 2011",
+    "description": "I finished primary school at Liceo de Cervantes Norte school in Bogota"
+  },
+  {
+    "title": "Finished high school",
+    "date": "June 2019",
+    "description": "I finished high school at San Diego school in Bogota"
+  }
+]
