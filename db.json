@@ -7,13 +7,13 @@
     "labels": [
       {
         "icon": "heart",
-        "icon-color": "red",
+        "iconcolor": "red",
         "color": "primary",
         "title": "Life stuff"
       },
       {
         "icon": "rocket",
-        "icon-color": "black",
+        "iconcolor": "black",
         "color": "white",
         "title": "21th Century man"
       }],
@@ -27,19 +27,19 @@
     "labels": [
       {
         "icon": "book",
-        "icon-color": "red",
+        "iconcolor": "red",
         "color": "medium",
         "title": "Student life"
       },
       {
         "icon": "jet",
-        "icon-color": "white",
+        "iconcolor": "white",
         "color": "tertiary",
         "title": "Pre-school days"
       },
       {
         "icon": "easel",
-        "icon-color": "success",
+        "iconcolor": "success",
         "color": "warning",
         "title": "Dream big"
       }],
@@ -53,19 +53,19 @@
     "labels": [
       {
         "icon": "heart",
-        "icon-color": "red",
+        "iconcolor": "red",
         "color": "primary",
         "title": "Life"
       },
       {
-        "icon": "rocket",
-        "icon-color": "black",
-        "color": "white",
-        "title": "21th Century man"
-      },
+        "icon": "book",
+        "iconcolor": "red",
+        "color": "medium",
+        "title": "Student life"
+      },,
       {
         "icon": "rocket",
-        "icon-color": "black",
+        "iconcolor": "black",
         "color": "white",
         "title": "It all started"
       }],
@@ -79,21 +79,21 @@
     "labels": [
       {
         "icon": "heart",
-        "icon-color": "red",
+        "iconcolor": "red",
         "color": "primary",
         "title": "Life"
       },
       {
         "icon": "rocket",
-        "icon-color": "black",
+        "iconcolor": "black",
         "color": "white",
         "title": "21th Century man"
       },
       {
-        "icon": "rocket",
-        "icon-color": "black",
-        "color": "white",
-        "title": "It all started"
+        "icon": "book",
+        "iconcolor": "red",
+        "color": "medium",
+        "title": "Student life"
       }],
     "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
   },
@@ -105,19 +105,19 @@
     "labels": [
       {
         "icon": "rocket",
-        "icon-color": "black",
+        "iconcolor": "black",
         "color": "white",
         "title": "21th Century man"
       },
       {
         "icon": "book",
-        "icon-color": "red",
+        "iconcolor": "red",
         "color": "medium",
         "title": "Student life"
       },
       {
         "icon": "easel",
-        "icon-color": "success",
+        "iconcolor": "success",
         "color": "warning",
         "title": "Dream big"
       }],
