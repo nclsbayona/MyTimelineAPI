@@ -9,19 +9,13 @@
         "icon": "heart",
         "icon-color": "red",
         "color": "primary",
-        "title": "Life"
+        "title": "Life start"
       },
       {
         "icon": "rocket",
         "icon-color": "black",
         "color": "white",
         "title": "21th Century man"
-      },
-      {
-        "icon": "rocket",
-        "icon-color": "black",
-        "color": "white",
-        "title": "It all started"
       }],
     "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
   },
