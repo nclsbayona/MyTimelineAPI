@@ -13,8 +13,8 @@
       },
       {
         "icon": "rocket",
-        "iconcolor": "black",
-        "color": "white",
+        "iconcolor": "secondary",
+        "color": "light",
         "title": "21th Century man"
       }],
     "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
@@ -33,7 +33,7 @@
       },
       {
         "icon": "jet",
-        "iconcolor": "white",
+        "iconcolor": "light",
         "color": "tertiary",
         "title": "Pre-school days"
       },
@@ -59,7 +59,7 @@
       },
       {
         "icon": "flask",
-        "iconcolor": "white",
+        "iconcolor": "light",
         "color": "tertiary",
         "title": "School days"
       },
@@ -90,8 +90,8 @@
         "title": "Student life"
       },
       {
-        "icon": "hammer",
-        "iconcolor": "white",
+        "icon": "flask",
+        "iconcolor": "light",
         "color": "tertiary",
         "title": "School days"
       }],
@@ -105,8 +105,8 @@
     "labels": [
       {
         "icon": "rocket",
-        "iconcolor": "black",
-        "color": "white",
+        "iconcolor": "secondary",
+        "color": "light",
         "title": "21th Century man"
       },
       {
@@ -122,8 +122,8 @@
         "title": "Student life"
       },
       {
-        "icon": "hammer",
-        "iconcolor": "white",
+        "icon": "flask",
+        "iconcolor": "light",
         "color": "tertiary",
         "title": "School days"
       }],
@@ -137,8 +137,8 @@
     "labels": [
       {
         "icon": "rocket",
-        "iconcolor": "black",
-        "color": "white",
+        "iconcolor": "secondary",
+        "color": "light",
         "title": "21th Century man"
       },
       {
