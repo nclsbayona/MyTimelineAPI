@@ -22,3 +22,5 @@ jobs:
           git add -A
           git diff-index --quiet HEAD ||  git commit -am "deploy files"  # commit to the repository (ignore if no modification)
           git push origin $TARGET_BRANCH # push to remote branch
+      - run: |
+          curl -XPOST -u "nclsbayona:${{secrets.PAT_TOKEN}}" -H "Accept: application/vnd.github.everest-preview+json" -H "Content-Type: application/json" https://api.github.com/repos/nclsbayona/nclsbayona.github.io/dispatches --data '{"event_type": "build_application"}'
