@@ -20,9 +20,9 @@
     "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
   },
   { 
-    "title": "Started school",
+    "title": "Started pre-school",
     "date": "February 2006",
-    "description": "I started school at Liceo de Cervantes Norte school in Bogota",
+    "description": "I started pre-school at Liceo de Cervantes Norte school in Bogota",
     "subtitle": "Bogotá, Colombia",
     "labels": [
       {
@@ -45,6 +45,33 @@
       }],
     "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
   },
+  ,
+  { 
+    "title": "Started school",
+    "date": "February 2008",
+    "description": "I started school at Liceo de Cervantes Norte school in Bogota",
+    "subtitle": "Bogotá, Colombia",
+    "labels": [
+      {
+        "icon": "book",
+        "iconcolor": "red",
+        "color": "medium",
+        "title": "Student life"
+      },
+      {
+        "icon": "hammer",
+        "iconcolor": "white",
+        "color": "tertiary",
+        "title": "School days"
+      },
+      {
+        "icon": "easel",
+        "iconcolor": "success",
+        "color": "warning",
+        "title": "Dream big"
+      }],
+    "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
+  },
   {
     "title": "Finished primary school",
     "date": "December 2011",
@@ -52,22 +79,22 @@
     "subtitle": "Bogotá, Colombia",
     "labels": [
       {
-        "icon": "heart",
-        "iconcolor": "red",
+        "icon": "trophy",
+        "iconcolor": "warning",
         "color": "primary",
-        "title": "Life"
+        "title": "Little Big Steps!"
       },
       {
         "icon": "book",
         "iconcolor": "red",
         "color": "medium",
         "title": "Student life"
-      },,
+      },
       {
-        "icon": "rocket",
-        "iconcolor": "black",
-        "color": "white",
-        "title": "It all started"
+        "icon": "hammer",
+        "iconcolor": "white",
+        "color": "tertiary",
+        "title": "School days"
       }],
     "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
   },
@@ -78,22 +105,28 @@
     "subtitle": "Bogotá, Colombia",
     "labels": [
       {
-        "icon": "heart",
-        "iconcolor": "red",
-        "color": "primary",
-        "title": "Life"
-      },
-      {
         "icon": "rocket",
         "iconcolor": "black",
         "color": "white",
         "title": "21th Century man"
       },
       {
+        "icon": "trophy",
+        "iconcolor": "warning",
+        "color": "primary",
+        "title": "Little Big Steps!"
+      },
+      {
         "icon": "book",
         "iconcolor": "red",
         "color": "medium",
         "title": "Student life"
+      },
+      {
+        "icon": "hammer",
+        "iconcolor": "white",
+        "color": "tertiary",
+        "title": "School days"
       }],
     "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
   },
