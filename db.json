@@ -26,22 +26,22 @@
     "subtitle": "Bogotá, Colombia",
     "labels": [
       {
-        "icon": "heart",
+        "icon": "book",
         "icon-color": "red",
-        "color": "primary",
-        "title": "Life"
+        "color": "medium",
+        "title": "Student life"
       },
       {
-        "icon": "rocket",
-        "icon-color": "black",
-        "color": "white",
-        "title": "21th Century man"
+        "icon": "jet",
+        "icon-color": "white",
+        "color": "tertiary",
+        "title": "Pre-school days"
       },
       {
-        "icon": "rocket",
-        "icon-color": "black",
-        "color": "white",
-        "title": "It all started"
+        "icon": "easel",
+        "icon-color": "success",
+        "color": "warning",
+        "title": "Dream big"
       }],
     "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
   },
