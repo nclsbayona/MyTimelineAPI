@@ -1,6 +1,9 @@
 name: Copy folder to other branch
 
-on: [push]
+on:
+ push:
+  paths:
+   - '*.json'
 
 concurrency: 
   group: ${{ github.ref }}
