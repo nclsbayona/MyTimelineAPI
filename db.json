@@ -23,7 +23,7 @@
         "color": "tertiary",
         "title": "Start small"
       }],
-    "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
+    "image": "https://www.going2colombia.com/images/Flag.jpg"
   },
   { 
     "title": "Started pre-school",
@@ -49,7 +49,7 @@
         "color": "warning",
         "title": "Dream big"
       }],
-    "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
+    "image": "https://www.going2colombia.com/images/Flag.jpg"
   },
   { 
     "title": "Started school",
@@ -75,7 +75,7 @@
         "color": "warning",
         "title": "Dream big"
       }],
-    "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
+    "image": "https://www.going2colombia.com/images/Flag.jpg"
   },
   {
     "title": "Finished primary school",
@@ -101,7 +101,7 @@
         "color": "tertiary",
         "title": "School days"
       }],
-    "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
+    "image": "https://www.going2colombia.com/images/Flag.jpg"
   },
   {
     "title": "Finished high school",
@@ -132,8 +132,14 @@
         "iconcolor": "light",
         "color": "tertiary",
         "title": "School days"
+      },
+      {
+        "icon": "easel",
+        "iconcolor": "success",
+        "color": "warning",
+        "title": "Dream big"
       }],
-    "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
+    "image": "https://www.going2colombia.com/images/Flag.jpg"
   },
   {
     "title": "Started systems engineering at university",
@@ -159,6 +165,6 @@
         "color": "warning",
         "title": "Dream big"
       }],
-    "image": "http://www.worldfinance.com/wp-content/uploads/2014/02/Bogota-Colombia.jpg"
+    "image": "https://www.going2colombia.com/images/Flag.jpg"
   }
 ]
