@@ -38,6 +38,12 @@
         "title": "Student life"
       },
       {
+        "icon": "infinite",
+        "iconcolor": "danger",
+        "color": "tertiary",
+        "title": "Start small"
+      },
+      {
         "icon": "alarm",
         "iconcolor": "primary",
         "color": "tertiary",
@@ -152,6 +158,12 @@
         "iconcolor": "secondary",
         "color": "light",
         "title": "21th Century man"
+      },
+      {
+        "icon": "infinite",
+        "iconcolor": "danger",
+        "color": "tertiary",
+        "title": "Start small"
       },
       {
         "icon": "book",
